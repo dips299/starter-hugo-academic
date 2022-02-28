@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: Author
+widget_id: Deepa Rangarajan
 headless: true
 weight: 20
 title: About Me
