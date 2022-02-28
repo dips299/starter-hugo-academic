@@ -3,9 +3,9 @@ widget: index
 widget_id: index
 headless: true
 weight: 10
-active: true
+active: false
 design:
-  columns: "2"
+  columns: ""
   background:
     text_color_light: false
     image_darken: 0
