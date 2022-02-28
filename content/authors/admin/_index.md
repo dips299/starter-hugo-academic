@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Energy Efficient Artificial Intelligence
-  - Artificial Intelligence for achieving UN's Sustainable Development Goals
+  - Computer Vision for achieving UN's Sustainable Development Goals
   - Green Computer Networking Solutions
 social:
   - icon: envelope
